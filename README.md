@@ -58,7 +58,7 @@ Contact Us – Form, location, support email/social links
 🛠️ Getting Started
 
 1. Clone the Repository
-    -git clone https://github.com/yourusername/tecshastra-website.git
+    -git clone (https://github.com/TecShastra25/TecShatra-Web.git)
     -cd tecshastra-website
 
 2. Open the Project
